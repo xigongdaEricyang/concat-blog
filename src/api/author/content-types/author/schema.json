@@ -24,12 +24,6 @@
     "email": {
       "type": "string"
     },
-    "articles": {
-      "type": "relation",
-      "relation": "oneToMany",
-      "target": "api::article.article",
-      "mappedBy": "author"
-    },
     "posts": {
       "type": "relation",
       "relation": "oneToMany",
