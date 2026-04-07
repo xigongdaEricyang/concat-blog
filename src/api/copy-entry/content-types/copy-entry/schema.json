@@ -5,7 +5,7 @@
     "singularName": "copy-entry",
     "pluralName": "copy-entries",
     "displayName": "文案项",
-    "description": "Localized copy entries mapped by key path"
+    "description": "按 key_path 映射的多语言文案项"
   },
   "options": {
     "draftAndPublish": false

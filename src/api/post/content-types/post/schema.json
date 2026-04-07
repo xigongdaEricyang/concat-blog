@@ -5,7 +5,7 @@
     "singularName": "post",
     "pluralName": "posts",
     "displayName": "文章",
-    "description": "Blog post content"
+    "description": "博客文章内容"
   },
   "options": {
     "draftAndPublish": true

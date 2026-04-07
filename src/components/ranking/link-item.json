@@ -3,7 +3,7 @@
   "info": {
     "displayName": "链接项",
     "icon": "link",
-    "description": "Simple label-href link entry"
+    "description": "简单的标题与链接项"
   },
   "options": {},
   "attributes": {

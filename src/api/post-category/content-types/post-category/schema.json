@@ -5,7 +5,7 @@
     "singularName": "post-category",
     "pluralName": "post-categories",
     "displayName": "文章分类",
-    "description": "Category for posts"
+    "description": "文章分类"
   },
   "options": {
     "draftAndPublish": false

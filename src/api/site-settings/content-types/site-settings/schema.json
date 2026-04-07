@@ -2,10 +2,10 @@
   "kind": "singleType",
   "collectionName": "site_settings",
   "info": {
-    "singularName": "site-setting",
-    "pluralName": "site-settings",
+    "singularName": "site-settings",
+    "pluralName": "site-settings-items",
     "displayName": "站点设置",
-    "description": "Global site settings for SEO, sitemap and robots"
+    "description": "站点级 SEO、sitemap 与 robots 配置"
   },
   "options": {
     "draftAndPublish": false

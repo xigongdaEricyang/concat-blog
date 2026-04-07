@@ -5,7 +5,7 @@
     "singularName": "ranking",
     "pluralName": "rankings",
     "displayName": "榜单",
-    "description": "Ranking detail page content"
+    "description": "榜单详情页内容"
   },
   "options": {
     "draftAndPublish": true

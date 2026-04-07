@@ -5,7 +5,7 @@
     "singularName": "sitemap-route-override",
     "pluralName": "sitemap-route-overrides",
     "displayName": "站点地图路由覆盖",
-    "description": "Manual sitemap route rules"
+    "description": "站点地图路由手动覆盖规则"
   },
   "options": {
     "draftAndPublish": false

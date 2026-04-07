@@ -3,7 +3,7 @@
   "info": {
     "displayName": "按钮链接",
     "icon": "cursor",
-    "description": "Call to action link"
+    "description": "通用操作按钮链接"
   },
   "options": {},
   "attributes": {

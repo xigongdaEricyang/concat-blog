@@ -2,10 +2,10 @@
   "kind": "singleType",
   "collectionName": "global_sections",
   "info": {
-    "singularName": "global-section",
-    "pluralName": "global-sections",
+    "singularName": "global-sections",
+    "pluralName": "global-sections-items",
     "displayName": "全局区块",
-    "description": "Reusable global sections like header/footer/cta"
+    "description": "可复用的全局区块（如页头、页脚、CTA）"
   },
   "options": {
     "draftAndPublish": false

@@ -3,7 +3,7 @@
   "info": {
     "displayName": "指标卡片",
     "icon": "chartBubble",
-    "description": "Metric summary card for ranking page"
+    "description": "榜单页指标摘要卡片"
   },
   "options": {},
   "attributes": {

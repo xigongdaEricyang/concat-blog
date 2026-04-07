@@ -5,7 +5,7 @@
     "singularName": "about",
     "pluralName": "abouts",
     "displayName": "关于页（旧）",
-    "description": "Write about yourself and the content you create"
+    "description": "关于页内容"
   },
   "options": {
     "draftAndPublish": false

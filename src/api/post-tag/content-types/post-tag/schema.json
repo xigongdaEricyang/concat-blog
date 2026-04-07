@@ -5,7 +5,7 @@
     "singularName": "post-tag",
     "pluralName": "post-tags",
     "displayName": "文章标签",
-    "description": "Tag for posts"
+    "description": "文章标签"
   },
   "options": {
     "draftAndPublish": false

@@ -3,7 +3,7 @@
   "info": {
     "displayName": "侧边栏文案卡片",
     "icon": "file",
-    "description": "Sidebar card with paragraphs and CTA"
+    "description": "侧边栏文案与按钮卡片"
   },
   "options": {},
   "attributes": {

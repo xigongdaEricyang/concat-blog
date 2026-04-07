@@ -5,7 +5,7 @@
     "singularName": "ranking-item",
     "pluralName": "ranking-items",
     "displayName": "榜单条目",
-    "description": "Row item in a ranking list"
+    "description": "榜单中的条目行"
   },
   "options": {
     "draftAndPublish": false
