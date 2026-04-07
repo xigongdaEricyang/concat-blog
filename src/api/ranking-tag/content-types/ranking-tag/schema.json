@@ -1,0 +1,31 @@
+{
+  "kind": "collectionType",
+  "collectionName": "ranking_tags",
+  "info": {
+    "singularName": "ranking-tag",
+    "pluralName": "ranking-tags",
+    "displayName": "榜单标签",
+    "description": "榜单标签"
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string",
+      "required": true
+    },
+    "slug": {
+      "type": "uid",
+      "targetField": "name",
+      "required": true
+    },
+    "rankings": {
+      "type": "relation",
+      "relation": "manyToMany",
+      "target": "api::ranking.ranking",
+      "mappedBy": "tags"
+    }
+  }
+}

@@ -101,7 +101,10 @@
       "components": ["ranking.sidebar-image-text-cta", "ranking.sidebar-text-cta"]
     },
     "tags": {
-      "type": "json"
+      "type": "relation",
+      "relation": "manyToMany",
+      "target": "api::ranking-tag.ranking-tag",
+      "inversedBy": "rankings"
     },
     "items": {
       "type": "relation",
