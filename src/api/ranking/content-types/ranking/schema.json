@@ -48,7 +48,20 @@
       "repeatable": false,
       "component": "shared.cta-item"
     },
+    "rankBadgeLabel": {
+      "type": "string",
+      "default": "TOP"
+    },
+    "rankBadgeCount": {
+      "type": "integer"
+    },
     "heroAvatars": {
+      "type": "json"
+    },
+    "headerShareLinks": {
+      "type": "json"
+    },
+    "footerShareLinks": {
       "type": "json"
     },
     "shareLinks": {
